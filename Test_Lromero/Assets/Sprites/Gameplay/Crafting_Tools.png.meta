@@ -1,0 +1,4920 @@
+fileFormatVersion: 2
+guid: 58608764d7461534bb616d3ff4b7f25d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5382628958820114974
+    second: Crafting_Tools_0
+  - first:
+      213: -4082765214827293822
+    second: Crafting_Tools_1
+  - first:
+      213: -5708856229579413046
+    second: Crafting_Tools_2
+  - first:
+      213: 8667937933535407495
+    second: Crafting_Tools_3
+  - first:
+      213: -4814731917693453439
+    second: Crafting_Tools_4
+  - first:
+      213: -3725225434266187092
+    second: Crafting_Tools_5
+  - first:
+      213: -2989800257617449383
+    second: Crafting_Tools_6
+  - first:
+      213: 2113581673814836941
+    second: Crafting_Tools_7
+  - first:
+      213: 2773549578116680334
+    second: Crafting_Tools_8
+  - first:
+      213: 4019019680848521191
+    second: Crafting_Tools_9
+  - first:
+      213: 7975566250593737859
+    second: Crafting_Tools_10
+  - first:
+      213: 2296291559322846305
+    second: Crafting_Tools_11
+  - first:
+      213: -1049976328310748731
+    second: Crafting_Tools_12
+  - first:
+      213: -4325305224462535500
+    second: Crafting_Tools_13
+  - first:
+      213: 5001567533147062963
+    second: Crafting_Tools_14
+  - first:
+      213: -7745376008192988911
+    second: Crafting_Tools_15
+  - first:
+      213: -5860633585708513897
+    second: Crafting_Tools_16
+  - first:
+      213: -6835949310052521930
+    second: Crafting_Tools_17
+  - first:
+      213: 9061871270753907805
+    second: Crafting_Tools_18
+  - first:
+      213: 2251925719519341726
+    second: Crafting_Tools_19
+  - first:
+      213: 2531422176070951051
+    second: Crafting_Tools_20
+  - first:
+      213: -2188999911932222740
+    second: Crafting_Tools_21
+  - first:
+      213: -8873970843019448562
+    second: Crafting_Tools_22
+  - first:
+      213: -1188169448444568563
+    second: Crafting_Tools_23
+  - first:
+      213: -7498613183619196401
+    second: Crafting_Tools_24
+  - first:
+      213: -4933686739538380094
+    second: Crafting_Tools_25
+  - first:
+      213: 1998974156917825799
+    second: Crafting_Tools_26
+  - first:
+      213: -8486840895924727034
+    second: Crafting_Tools_27
+  - first:
+      213: 4675702406541145702
+    second: Crafting_Tools_28
+  - first:
+      213: 1883486948574666856
+    second: Crafting_Tools_29
+  - first:
+      213: -93043224960834536
+    second: Crafting_Tools_30
+  - first:
+      213: -4756382158794121747
+    second: Crafting_Tools_31
+  - first:
+      213: -2149180007314755487
+    second: Crafting_Tools_32
+  - first:
+      213: 7846613961312802768
+    second: Crafting_Tools_33
+  - first:
+      213: 1710029873655975747
+    second: Crafting_Tools_34
+  - first:
+      213: -5246709338840530551
+    second: Crafting_Tools_35
+  - first:
+      213: 7245207816216396207
+    second: Crafting_Tools_36
+  - first:
+      213: 8624359890184168993
+    second: Crafting_Tools_37
+  - first:
+      213: 4919293350850367834
+    second: Crafting_Tools_38
+  - first:
+      213: -5968933483361011165
+    second: Crafting_Tools_39
+  - first:
+      213: 364124469954961116
+    second: Crafting_Tools_40
+  - first:
+      213: 5099099080453083290
+    second: Crafting_Tools_41
+  - first:
+      213: 4838361313429252404
+    second: Crafting_Tools_42
+  - first:
+      213: -5629009354850635025
+    second: Crafting_Tools_43
+  - first:
+      213: -4864381821542952988
+    second: Crafting_Tools_44
+  - first:
+      213: -5237130653002809516
+    second: Crafting_Tools_45
+  - first:
+      213: 6549337326098043376
+    second: Crafting_Tools_46
+  - first:
+      213: -4416413350280740327
+    second: Crafting_Tools_47
+  - first:
+      213: -4634500444526808260
+    second: Crafting_Tools_48
+  - first:
+      213: -3986717502040274382
+    second: Crafting_Tools_49
+  - first:
+      213: -405455126563479114
+    second: Crafting_Tools_50
+  - first:
+      213: -3110995022707066597
+    second: Crafting_Tools_51
+  - first:
+      213: 485788097906093316
+    second: Crafting_Tools_52
+  - first:
+      213: -4944034406556759227
+    second: Crafting_Tools_53
+  - first:
+      213: -9110308921505741231
+    second: Crafting_Tools_54
+  - first:
+      213: 4331042805814677197
+    second: Crafting_Tools_55
+  - first:
+      213: -5429136375590572677
+    second: Crafting_Tools_56
+  - first:
+      213: -2689670634094044544
+    second: Crafting_Tools_57
+  - first:
+      213: -2113852139933649013
+    second: Crafting_Tools_58
+  - first:
+      213: 6093647811704564502
+    second: Crafting_Tools_59
+  - first:
+      213: -5323426865735036172
+    second: Crafting_Tools_60
+  - first:
+      213: -1843144316260756563
+    second: Crafting_Tools_61
+  - first:
+      213: -3759345923691026725
+    second: Crafting_Tools_62
+  - first:
+      213: 3028021257655486645
+    second: Crafting_Tools_63
+  - first:
+      213: -6952807124843412510
+    second: Crafting_Tools_64
+  - first:
+      213: -1973476000283207905
+    second: Crafting_Tools_65
+  - first:
+      213: 3336933931504426730
+    second: Crafting_Tools_66
+  - first:
+      213: 3101890066121097142
+    second: Crafting_Tools_67
+  - first:
+      213: -7165315425816601712
+    second: Crafting_Tools_68
+  - first:
+      213: 718069761087562636
+    second: Crafting_Tools_69
+  - first:
+      213: -3624902716784713734
+    second: Crafting_Tools_70
+  - first:
+      213: 225843966150269836
+    second: Crafting_Tools_71
+  - first:
+      213: 5456591174234744953
+    second: Crafting_Tools_72
+  - first:
+      213: -8984843232998570307
+    second: Crafting_Tools_73
+  - first:
+      213: -4896752083242520397
+    second: Crafting_Tools_74
+  - first:
+      213: 5880715773585119588
+    second: Crafting_Tools_75
+  - first:
+      213: 7630038986131906067
+    second: Crafting_Tools_76
+  - first:
+      213: -7637935572558544206
+    second: Crafting_Tools_77
+  - first:
+      213: -8311230931434142136
+    second: Crafting_Tools_78
+  - first:
+      213: -5845310532735227491
+    second: Crafting_Tools_79
+  - first:
+      213: -8050151400915837236
+    second: Crafting_Tools_80
+  - first:
+      213: -2296715135650176185
+    second: Crafting_Tools_81
+  - first:
+      213: -3122127560796116053
+    second: Crafting_Tools_82
+  - first:
+      213: -1735994310501370022
+    second: Crafting_Tools_83
+  - first:
+      213: 4673910470646494251
+    second: Crafting_Tools_84
+  - first:
+      213: -7672890067829137616
+    second: Crafting_Tools_85
+  - first:
+      213: -4733540338208744328
+    second: Crafting_Tools_86
+  - first:
+      213: -1313367233391264180
+    second: Crafting_Tools_87
+  - first:
+      213: -5012052702105438245
+    second: Crafting_Tools_88
+  - first:
+      213: -5062633347714536325
+    second: Crafting_Tools_89
+  - first:
+      213: -2133291401434956367
+    second: Crafting_Tools_90
+  - first:
+      213: 2521167900238041222
+    second: Crafting_Tools_91
+  - first:
+      213: 6434839251715368541
+    second: Crafting_Tools_92
+  - first:
+      213: -2987309214231194167
+    second: Crafting_Tools_93
+  - first:
+      213: 5347874452227160622
+    second: Crafting_Tools_94
+  - first:
+      213: 99540299858024987
+    second: Crafting_Tools_95
+  - first:
+      213: -3071125735842996194
+    second: Crafting_Tools_96
+  - first:
+      213: 2233981069422583148
+    second: Crafting_Tools_97
+  - first:
+      213: 2698129141605847956
+    second: Crafting_Tools_98
+  - first:
+      213: -2541684448895046432
+    second: Crafting_Tools_99
+  - first:
+      213: -1213450420701728724
+    second: Crafting_Tools_100
+  - first:
+      213: -8085242564973374953
+    second: Crafting_Tools_101
+  - first:
+      213: -811936091597480114
+    second: Crafting_Tools_102
+  - first:
+      213: -3816696365610478988
+    second: Crafting_Tools_103
+  - first:
+      213: -9067759376308906454
+    second: Crafting_Tools_104
+  - first:
+      213: -32557128459799527
+    second: Crafting_Tools_105
+  - first:
+      213: 7999957908994689410
+    second: Crafting_Tools_106
+  - first:
+      213: 4028643600850198938
+    second: Crafting_Tools_107
+  - first:
+      213: -7902067862682666668
+    second: Crafting_Tools_108
+  - first:
+      213: 5341455467639418606
+    second: Crafting_Tools_109
+  - first:
+      213: -6670148925297088370
+    second: Crafting_Tools_110
+  - first:
+      213: -9185326786310677019
+    second: Crafting_Tools_111
+  - first:
+      213: -96586637391645307
+    second: Crafting_Tools_112
+  - first:
+      213: 3919171386283725389
+    second: Crafting_Tools_113
+  - first:
+      213: -552294755883198904
+    second: Crafting_Tools_114
+  - first:
+      213: 6994651427917720270
+    second: Crafting_Tools_115
+  - first:
+      213: 3220433748945040372
+    second: Crafting_Tools_116
+  - first:
+      213: 6391402833140282682
+    second: Crafting_Tools_117
+  - first:
+      213: -6926923611652362678
+    second: Crafting_Tools_118
+  - first:
+      213: -1405549387260613025
+    second: Crafting_Tools_119
+  - first:
+      213: 4986475071787195140
+    second: Crafting_Tools_120
+  - first:
+      213: 7188599140420458786
+    second: Crafting_Tools_121
+  - first:
+      213: -4378240172935920033
+    second: Crafting_Tools_122
+  - first:
+      213: -7299433017879783850
+    second: Crafting_Tools_123
+  - first:
+      213: -3406585012987504173
+    second: Crafting_Tools_124
+  - first:
+      213: -5457188314164837425
+    second: Crafting_Tools_125
+  - first:
+      213: 330729332378617387
+    second: Crafting_Tools_126
+  - first:
+      213: 8075214198195855879
+    second: Crafting_Tools_127
+  - first:
+      213: -6282916616813016402
+    second: Crafting_Tools_128
+  - first:
+      213: 3439837175439167793
+    second: Crafting_Tools_129
+  - first:
+      213: 7379363332367077596
+    second: Crafting_Tools_130
+  - first:
+      213: 7930621749811835656
+    second: Crafting_Tools_131
+  - first:
+      213: 41170299830551839
+    second: Crafting_Tools_132
+  - first:
+      213: -3437671169756406257
+    second: Crafting_Tools_133
+  - first:
+      213: 1792120870639305717
+    second: Crafting_Tools_134
+  - first:
+      213: 6687291631155637164
+    second: Crafting_Tools_135
+  - first:
+      213: 923304640088420693
+    second: Crafting_Tools_136
+  - first:
+      213: -2283219699600395765
+    second: Crafting_Tools_137
+  - first:
+      213: -9059373361810651819
+    second: Crafting_Tools_138
+  - first:
+      213: -8172646388720481812
+    second: Crafting_Tools_139
+  - first:
+      213: 203927494067051369
+    second: Crafting_Tools_140
+  - first:
+      213: 7519126239916253852
+    second: Crafting_Tools_141
+  - first:
+      213: -8666687640893024254
+    second: Crafting_Tools_142
+  - first:
+      213: -7794258165953194343
+    second: Crafting_Tools_143
+  - first:
+      213: -3382947975670345932
+    second: Crafting_Tools_144
+  - first:
+      213: 6589873522767535704
+    second: Crafting_Tools_145
+  - first:
+      213: 8661805018683777597
+    second: Crafting_Tools_146
+  - first:
+      213: -1339466514095586844
+    second: Crafting_Tools_147
+  - first:
+      213: 4049285981722205476
+    second: Crafting_Tools_148
+  - first:
+      213: -7497147088759777266
+    second: Crafting_Tools_149
+  - first:
+      213: -5521880772256028482
+    second: Crafting_Tools_150
+  - first:
+      213: 3695770682069576848
+    second: Crafting_Tools_151
+  - first:
+      213: 8983377456667682004
+    second: Crafting_Tools_152
+  - first:
+      213: -4299273161643827031
+    second: Crafting_Tools_153
+  - first:
+      213: 4245948952812097736
+    second: Crafting_Tools_154
+  - first:
+      213: 1358683336952566643
+    second: Crafting_Tools_155
+  - first:
+      213: -2386592497571648376
+    second: Crafting_Tools_156
+  - first:
+      213: 6738928876538793352
+    second: Crafting_Tools_157
+  - first:
+      213: 5101253951958266328
+    second: Crafting_Tools_158
+  - first:
+      213: 2362443290221802820
+    second: Crafting_Tools_159
+  - first:
+      213: -2715829490442065019
+    second: Crafting_Tools_160
+  - first:
+      213: 4230319449147842450
+    second: Crafting_Tools_161
+  - first:
+      213: -6556628090066942119
+    second: Crafting_Tools_162
+  - first:
+      213: 5531431384399485388
+    second: Crafting_Tools_163
+  - first:
+      213: 7103290335319818538
+    second: Crafting_Tools_164
+  - first:
+      213: -8777439727276985719
+    second: Crafting_Tools_165
+  - first:
+      213: -6517644383652767117
+    second: Crafting_Tools_166
+  - first:
+      213: -3203142409026506224
+    second: Crafting_Tools_167
+  - first:
+      213: -7403512512629019789
+    second: Crafting_Tools_168
+  - first:
+      213: -8153165578118163320
+    second: Crafting_Tools_169
+  - first:
+      213: 3970218962939822526
+    second: Crafting_Tools_170
+  - first:
+      213: -4229812058212973269
+    second: Crafting_Tools_171
+  - first:
+      213: 3224622151307437420
+    second: Crafting_Tools_172
+  - first:
+      213: 6971819582707507286
+    second: Crafting_Tools_173
+  - first:
+      213: -3326256392251225962
+    second: Crafting_Tools_174
+  - first:
+      213: -8495014285802222177
+    second: Crafting_Tools_175
+  - first:
+      213: 2411090546951663264
+    second: Crafting_Tools_176
+  - first:
+      213: 3468807362415877540
+    second: Crafting_Tools_177
+  - first:
+      213: 5361738828015763906
+    second: Crafting_Tools_178
+  - first:
+      213: 1204420275495222389
+    second: Crafting_Tools_179
+  - first:
+      213: -5231476069069068597
+    second: Crafting_Tools_180
+  - first:
+      213: -570446190043952781
+    second: Crafting_Tools_181
+  - first:
+      213: 4440544655796724150
+    second: Crafting_Tools_182
+  - first:
+      213: 1964111359476493650
+    second: Crafting_Tools_183
+  - first:
+      213: -8884137886630597321
+    second: Crafting_Tools_184
+  - first:
+      213: -9118133449904986415
+    second: Crafting_Tools_185
+  - first:
+      213: 7382642734847421447
+    second: Crafting_Tools_186
+  - first:
+      213: 3826436159006360041
+    second: Crafting_Tools_187
+  - first:
+      213: -5192402499200698174
+    second: Crafting_Tools_188
+  - first:
+      213: 3400073561936040756
+    second: Crafting_Tools_189
+  - first:
+      213: -243917990178126172
+    second: Crafting_Tools_190
+  - first:
+      213: -349692589272002964
+    second: Crafting_Tools_191
+  - first:
+      213: 9170203478490946353
+    second: Crafting_Tools_192
+  - first:
+      213: -2752823661876089511
+    second: Crafting_Tools_193
+  - first:
+      213: 2060187150465598009
+    second: Crafting_Tools_194
+  - first:
+      213: -5070449767784155793
+    second: Crafting_Tools_195
+  - first:
+      213: 8464136964515580946
+    second: Crafting_Tools_196
+  - first:
+      213: -3513226896892831982
+    second: Crafting_Tools_197
+  - first:
+      213: -2959125130894815850
+    second: Crafting_Tools_198
+  - first:
+      213: -5754486854836214580
+    second: Crafting_Tools_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crafting_Tools_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 483
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eddbc7fa7f0d45b0800000000000000
+      internalID: -5382628958820114974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 482
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283d5e42baa1757c0800000000000000
+      internalID: -4082765214827293822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 483
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9a42a818116c0b0800000000000000
+      internalID: -5708856229579413046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 483
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78de28730a3ba4870800000000000000
+      internalID: 8667937933535407495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 483
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b752594d2ae2db0800000000000000
+      internalID: -4814731917693453439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 484
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa405264375d4cc0800000000000000
+      internalID: -3725225434266187092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 484
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e275f91881286d0800000000000000
+      internalID: -2989800257617449383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 484
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc642878553f45d10800000000000000
+      internalID: 2113581673814836941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 487
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a449a75a0ad7620800000000000000
+      internalID: 2773549578116680334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 500
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7a7462b1d66c730800000000000000
+      internalID: 4019019680848521191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 489
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cdb31af37eeae60800000000000000
+      internalID: 7975566250593737859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 480
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1648a26c1011edf10800000000000000
+      internalID: 2296291559322846305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 480
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c90878a71cbd61f0800000000000000
+      internalID: -1049976328310748731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 482
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4f4c690dd69f3c0800000000000000
+      internalID: -4325305224462535500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_14
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 486
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b28b550c23296540800000000000000
+      internalID: 5001567533147062963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 484
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119e2dbae85e28490800000000000000
+      internalID: -7745376008192988911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 483
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795ce150ec8daaea0800000000000000
+      internalID: -5860633585708513897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 484
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6382eb72254d121a0800000000000000
+      internalID: -6835949310052521930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 452
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54ba9da8eb32cd70800000000000000
+      internalID: 9061871270753907805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 453
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c248cb282704f10800000000000000
+      internalID: 2251925719519341726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 451
+        width: 96
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80614d9e0b612320800000000000000
+      internalID: 2531422176070951051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 449
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce22beb8d2c1f91e0800000000000000
+      internalID: -2188999911932222740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 452
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fe6aad88259d480800000000000000
+      internalID: -8873970843019448562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 452
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c5d7c8e26c28fe0800000000000000
+      internalID: -1188169448444568563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 451
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a1152f9039fe790800000000000000
+      internalID: -7498613183619196401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 450
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca72c8dc06088bb0800000000000000
+      internalID: -4933686739538380094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_26
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 450
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701e54a9768cdbb10800000000000000
+      internalID: 1998974156917825799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 450
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603162d9b2fa83a80800000000000000
+      internalID: -8486840895924727034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 450
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666f259d09e63e040800000000000000
+      internalID: 4675702406541145702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_29
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 451
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860a0ec866d732a10800000000000000
+      internalID: 1883486948574666856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_30
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 452
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814e37b0ea175bef0800000000000000
+      internalID: -93043224960834536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 451
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded121180afedfdb0800000000000000
+      internalID: -4756382158794121747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 421
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160f1a19b249c22e0800000000000000
+      internalID: -2149180007314755487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 421
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d79bad13d5c4ec60800000000000000
+      internalID: 7846613961312802768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_34
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 420
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f02962c1f3bb710800000000000000
+      internalID: 1710029873655975747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 419
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9818fa297a1ff27b0800000000000000
+      internalID: -5246709338840530551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_36
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 419
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa146714f162c8460800000000000000
+      internalID: 7245207816216396207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 418
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126ed8550a1efa770800000000000000
+      internalID: 8624359890184168993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 421
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5190633d37d44440800000000000000
+      internalID: 4919293350850367834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_39
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 422
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32af4542f961a2da0800000000000000
+      internalID: -5968933483361011165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_40
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 417
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde51b5b641ad0500800000000000000
+      internalID: 364124469954961116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_41
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 416
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a905de4f893a3c640800000000000000
+      internalID: 5099099080453083290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_42
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43961f5daff452340800000000000000
+      internalID: 4838361313429252404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_43
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 420
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2f6c6c0ddb1e1b0800000000000000
+      internalID: -5629009354850635025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_44
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 419
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef8013818e3e7cb0800000000000000
+      internalID: -4864381821542952988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_45
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 421
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f35792b69f157b0800000000000000
+      internalID: -5237130653002809516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 390
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1d744299be3ea50800000000000000
+      internalID: 6549337326098043376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_47
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 385
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9124933057fb5b2c0800000000000000
+      internalID: -4416413350280740327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_48
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 384
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33f69c7662feafb0800000000000000
+      internalID: -4634500444526808260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 384
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a8e0fed855ca8c0800000000000000
+      internalID: -3986717502040274382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 386
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1a2d8e5b88f5af0800000000000000
+      internalID: -405455126563479114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_51
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 388
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b197985728683d4d0800000000000000
+      internalID: -3110995022707066597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 389
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d2ec383bdddb600800000000000000
+      internalID: 485788097906093316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 390
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b00efd6e2436bb0800000000000000
+      internalID: -4944034406556759227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_54
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 388
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156049bed4ea19180800000000000000
+      internalID: -9110308921505741231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_55
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 389
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce489b2c74fa1c30800000000000000
+      internalID: 4331042805814677197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_56
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7da5cf2b35d7a4b0800000000000000
+      internalID: -5429136375590572677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 393
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a560c0fce5caad0800000000000000
+      internalID: -2689670634094044544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_58
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b873e8bada61aa2e0800000000000000
+      internalID: -2113852139933649013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 393
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bacf2366cf09450800000000000000
+      internalID: 6093647811704564502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_60
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 385
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2971868736f16b0800000000000000
+      internalID: -5323426865735036172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_61
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 388
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da35f7f7206db66e0800000000000000
+      internalID: -1843144316260756563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_62
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 388
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6659edcce14dbc0800000000000000
+      internalID: -3759345923691026725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b803ea6a41b50a20800000000000000
+      internalID: 3028021257655486645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 353
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e347ebe1caa28f90800000000000000
+      internalID: -6952807124843412510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f175c5e980ecc94e0800000000000000
+      internalID: -1973476000283207905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeed44a1bbb2f4e20800000000000000
+      internalID: 3336933931504426730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bff573a4902c0b20800000000000000
+      internalID: 3101890066121097142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_68
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 352
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b139c659faf8c90800000000000000
+      internalID: -7165315425816601712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_69
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 358
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83e299a4a817f900800000000000000
+      internalID: 718069761087562636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_70
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 358
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd2b44f22c1bdc0800000000000000
+      internalID: -3624902716784713734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_71
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 358
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b5d0104eb522300800000000000000
+      internalID: 225843966150269836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_72
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 354
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9782bc043c4b9bb40800000000000000
+      internalID: 5456591174234744953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_73
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 354
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db64c8eeeac6f4380800000000000000
+      internalID: -8984843232998570307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_74
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 354
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0fc25aced3b0cb0800000000000000
+      internalID: -4896752083242520397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_75
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 354
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469d395b6df7c9150800000000000000
+      internalID: 5880715773585119588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_76
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 355
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e16ce380853e960800000000000000
+      internalID: 7630038986131906067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_77
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 357
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b20454701a900690800000000000000
+      internalID: -7637935572558544206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84601ada08398ac80800000000000000
+      internalID: -8311230931434142136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_79
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99a77e4a0941eea0800000000000000
+      internalID: -5845310532735227491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce5c40d3fd184090800000000000000
+      internalID: -8050151400915837236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 321
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743ee4da0cd6020e0800000000000000
+      internalID: -2296715135650176185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab6a437689fba4d0800000000000000
+      internalID: -3122127560796116053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_83
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 322
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57777e4f5288e7e0800000000000000
+      internalID: -1735994310501370022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24fcd24fc01dd040800000000000000
+      internalID: 4673910470646494251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_85
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 323
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fdb62d22b648590800000000000000
+      internalID: -7672890067829137616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_86
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 323
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cd51b44261f4eb0800000000000000
+      internalID: -4733540338208744328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_87
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 323
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e7312b57bf5cde0800000000000000
+      internalID: -1313367233391264180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_88
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 322
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7f7775f9c917ab0800000000000000
+      internalID: -5012052702105438245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_89
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 324
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cad611bc9edb9b0800000000000000
+      internalID: -5062633347714536325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_90
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 325
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdf217e5c60562e0800000000000000
+      internalID: -2133291401434956367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_91
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 324
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6805ec8f8dcfcf220800000000000000
+      internalID: 2521167900238041222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_92
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 325
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d562c39c4342d4950800000000000000
+      internalID: 6434839251715368541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_93
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 325
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c59f7bd812fa86d0800000000000000
+      internalID: -2987309214231194167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_94
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 290
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2af264ea77773a40800000000000000
+      internalID: 5347874452227160622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_95
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 291
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a9fd51063a16100800000000000000
+      internalID: 99540299858024987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 290
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10a48e2a6b2165d0800000000000000
+      internalID: -3071125735842996194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_97
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d51ed42f1b00f10800000000000000
+      internalID: 2233981069422583148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_98
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 290
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493db83b82ea17520800000000000000
+      internalID: 2698129141605847956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ece97cc57f1abcd0800000000000000
+      internalID: -2541684448895046432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_100
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 291
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2076818545f82fe0800000000000000
+      internalID: -1213450420701728724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_101
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 289
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712d4ef79b27bcf80800000000000000
+      internalID: -8085242564973374953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_102
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 291
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f53003d6c6bb4f0800000000000000
+      internalID: -811936091597480114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_103
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 291
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472534090ee580bc0800000000000000
+      internalID: -3816696365610478988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_104
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 292
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26d36ae3e8d82280800000000000000
+      internalID: -9067759376308906454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_105
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 293
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9143f33d6755c8ff0800000000000000
+      internalID: -32557128459799527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_106
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28984b7255f850f60800000000000000
+      internalID: 7999957908994689410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_107
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 293
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a353a20e98e730800000000000000
+      internalID: 4028643600850198938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_108
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 293
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459f4c55527365290800000000000000
+      internalID: -7902067862682666668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_109
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 260
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee27349279a02a40800000000000000
+      internalID: 5341455467639418606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_110
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 260
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88a6b474eede63a0800000000000000
+      internalID: -6670148925297088370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_111
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 257
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed521c24f9278080800000000000000
+      internalID: -9185326786310677019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_112
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 257
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585b83c07fad8aef0800000000000000
+      internalID: -96586637391645307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_113
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 257
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4211557c91b36630800000000000000
+      internalID: 3919171386283725389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_114
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 258
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846554088dad558f0800000000000000
+      internalID: -552294755883198904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_115
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 260
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecae6b81a6ef11160800000000000000
+      internalID: 6994651427917720270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_116
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 260
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f37c8c9e6741bc20800000000000000
+      internalID: 3220433748945040372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_117
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 261
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3570cd7303d2b850800000000000000
+      internalID: 6391402833140282682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_118
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 263
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ee135fcaf9edf90800000000000000
+      internalID: -6926923611652362678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_119
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 276
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e201a774c7e7ce0800000000000000
+      internalID: -1405549387260613025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_120
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 262
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b573788a4833540800000000000000
+      internalID: 4986475071787195140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_121
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 259
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2299075d4d803c360800000000000000
+      internalID: 7188599140420458786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_122
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 261
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f564fc672cd5d33c0800000000000000
+      internalID: -4378240172935920033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_123
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 259
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6569483285433ba90800000000000000
+      internalID: -7299433017879783850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_124
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9d5b3caf069b0d0800000000000000
+      internalID: -3406585012987504173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_125
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3cac5442c2444b0800000000000000
+      internalID: -5457188314164837425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_126
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26ca35539cf69400800000000000000
+      internalID: 330729332378617387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_127
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702a7a8678ce01070800000000000000
+      internalID: 8075214198195855879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_128
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 224
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa067510a89ec8a0800000000000000
+      internalID: -6282916616813016402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_129
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 225
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1311c3f9fa1ccbf20800000000000000
+      internalID: 3439837175439167793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_130
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 227
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0584e6ad3c86660800000000000000
+      internalID: 7379363332367077596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_131
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 228
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8037585967a3f0e60800000000000000
+      internalID: 7930621749811835656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_132
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 231
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1542b86b24429000800000000000000
+      internalID: 41170299830551839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_133
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 229
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e5110e840fa40d0800000000000000
+      internalID: -3437671169756406257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_134
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 225
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f30501df64eed810800000000000000
+      internalID: 1792120870639305717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_135
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 226
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab6978ce480ecc50800000000000000
+      internalID: 6687291631155637164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_136
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 230
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551b0f3adac30dc00800000000000000
+      internalID: 923304640088420693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_137
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 229
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02f42db7cf5050e0800000000000000
+      internalID: -2283219699600395765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_138
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 194
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555c3a11de3a64280800000000000000
+      internalID: -9059373361810651819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_139
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 193
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9cf65f86de49e80800000000000000
+      internalID: -8172646388720481812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_140
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 196
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b5dc3b9fe74d200800000000000000
+      internalID: 203927494067051369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 194
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92e6872a7d495860800000000000000
+      internalID: 7519126239916253852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_142
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 198
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2089d49328db9b780800000000000000
+      internalID: -8666687640893024254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_143
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 197
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9961caa6e7b35d390800000000000000
+      internalID: -7794258165953194343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_144
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 197
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fca806dba5d01d0800000000000000
+      internalID: -3382947975670345932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_145
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 162
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e9f47ed0fe37b50800000000000000
+      internalID: 6589873522767535704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_146
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 160
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a754b5c9e43870800000000000000
+      internalID: 8661805018683777597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_147
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 164
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e14dce5d42496de0800000000000000
+      internalID: -1339466514095586844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_148
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 165
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d55867524f13830800000000000000
+      internalID: 4049285981722205476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_149
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 165
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e089e91c178c4f790800000000000000
+      internalID: -7497147088759777266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_150
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8ae9d91b65e53b0800000000000000
+      internalID: -5521880772256028482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_151
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c6f04bad30a4330800000000000000
+      internalID: 3695770682069576848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_152
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4edeb633e5bac70800000000000000
+      internalID: 8983377456667682004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_153
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a069d786d9e554c0800000000000000
+      internalID: -4299273161643827031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_154
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c09eca9314acea30800000000000000
+      internalID: 4245948952812097736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_155
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 131
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373dc4ddb430bd210800000000000000
+      internalID: 1358683336952566643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_156
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c21a6a4ce11eed0800000000000000
+      internalID: -2386592497571648376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_157
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 133
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d87bcdb1c758d50800000000000000
+      internalID: 6738928876538793352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_158
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 133
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1b783117b4bc640800000000000000
+      internalID: 5101253951958266328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_159
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445fcabd7a519c020800000000000000
+      internalID: 2362443290221802820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_160
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58babafa77f6f4ad0800000000000000
+      internalID: -2715829490442065019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_161
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f12e4302d15ba30800000000000000
+      internalID: 4230319449147842450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_162
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 98
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95746379d7d2205a0800000000000000
+      internalID: -6556628090066942119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_163
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 98
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9149e898793cc40800000000000000
+      internalID: 5531431384399485388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_164
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a210435dce4f39260800000000000000
+      internalID: 7103290335319818538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_165
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 122
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f04aa215403680800000000000000
+      internalID: -8777439727276985719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_166
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a9e0c07fcac85a0800000000000000
+      internalID: -6517644383652767117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_167
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0127cf033f62c83d0800000000000000
+      internalID: -3203142409026506224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_168
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b66926890714990800000000000000
+      internalID: -7403512512629019789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_169
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8841351aa132ade80800000000000000
+      internalID: -8153165578118163320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb14c869c1d091730800000000000000
+      internalID: 3970218962939822526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b254d83f750bc45c0800000000000000
+      internalID: -4229812058212973269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65298703c820cc20800000000000000
+      internalID: 3224622151307437420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650a461e8f0e0c060800000000000000
+      internalID: 6971819582707507286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_174
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 64
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6984efb3f63c6d1d0800000000000000
+      internalID: -3326256392251225962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_175
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dc3ecf385ab1a80800000000000000
+      internalID: -8495014285802222177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_176
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae2b54f31ae57120800000000000000
+      internalID: 2411090546951663264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_177
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adde07eaeda32030800000000000000
+      internalID: 3468807362415877540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_178
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 40
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c18c4e6e09b86a40800000000000000
+      internalID: 5361738828015763906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_179
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cbb29fbd5f6b010800000000000000
+      internalID: 1204420275495222389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_180
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 36
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc66e249b301667b0800000000000000
+      internalID: -5231476069069068597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_181
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37984f6663e5518f0800000000000000
+      internalID: -570446190043952781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_182
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1e50266dbff9d30800000000000000
+      internalID: 4440544655796724150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_183
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 33
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25de7e800ece14b10800000000000000
+      internalID: 1964111359476493650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_184
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d2bcb89a335b480800000000000000
+      internalID: -8884137886630597321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_185
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d66ecfefe1e57180800000000000000
+      internalID: -9118133449904986415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_186
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce232d37a647660800000000000000
+      internalID: 7382642734847421447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_187
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1c84dc96b3a1530800000000000000
+      internalID: 3826436159006360041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_188
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8ba400071e0f7b0800000000000000
+      internalID: -5192402499200698174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_189
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4331565e3ec7f2f20800000000000000
+      internalID: 3400073561936040756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_190
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a60b1951ed6d9cf0800000000000000
+      internalID: -243917990178126172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_191
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e0bdb5174a52bf0800000000000000
+      internalID: -349692589272002964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_192
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b11855a7b134f70800000000000000
+      internalID: 9170203478490946353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_193
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95de590f6710cc9d0800000000000000
+      internalID: -2752823661876089511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_194
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932835a4c41479c10800000000000000
+      internalID: 2060187150465598009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_195
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6573c3fcc422a9b0800000000000000
+      internalID: -5070449767784155793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_196
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c443c69b7a67570800000000000000
+      internalID: 8464136964515580946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_197
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217da5b40c28e3fc0800000000000000
+      internalID: -3513226896892831982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_198
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d451f1f531fe6d0800000000000000
+      internalID: -2959125130894815850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crafting_Tools_199
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 9
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc425d0b1b4f320b0800000000000000
+      internalID: -5754486854836214580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
